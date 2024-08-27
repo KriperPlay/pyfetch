@@ -16,7 +16,7 @@ full_name = f"{user_name}@{platform.uname()[1]}"
 os_name = distro.name()
 host = platform.node()
 uptime = os.popen("uptime -p").read()[3:-1] 
-res = os.popen("xrandr -q | grep '\*'").read()
+res = os.popen(r"xrandr -q | grep '\*'").read()
 shell = os.popen("echo $SHELL").read().strip()
 
 de = os.popen("echo $XDG_CURRENT_DESKTOP").read().strip()
