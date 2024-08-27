@@ -19,7 +19,7 @@ uptime = os.popen("uptime -p").read()[3:-1]
 res = os.popen("xrandr -q | grep '\*'").read()
 shell = os.popen("echo $SHELL").read().strip()
 
-de = os.popen("echo $DESKTOP_SESSION").read().strip()
+de = os.popen("echo $XDG_CURRENT_DESKTOP").read().strip()
 wm = os.popen("wmctrl -m").readlines()
 if bool(wm) == False:
     wm = ""
