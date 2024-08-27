@@ -73,4 +73,13 @@ pyinstaller main.py --onefile
     "color": "VIOLET"
 }
 ```
-i think everything is clear here
+values ​​for variable 'color':
+* "RED"
+* "GREEN"
+* "BLUE"
+* "WHITE"
+* "BLACK"
+* "YELLOW"
+* "VIOLET"
+
+next i think everything is clear here
