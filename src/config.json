@@ -1,0 +1,20 @@
+{
+    "Logo": true,
+    "OS": true,
+    "Host": true,
+    "Kernel": true,
+    "Uptime": true,
+    "Packages": true,
+    "Shell": true,
+    "Resolution": true,
+    "DE": true,
+    "WM": true,
+    "Terminal": true,
+    "CPU": true,
+    "GPU": true,
+    "Disk": true,
+    "Swap": true,
+    "RAM": true,
+    "path_logo": "logo.txt",
+    "color": "VIOLET"
+}
