@@ -9,6 +9,7 @@
   * rpm
   * pacman
   * zypper
+  * flatpak
 
 # About 
 pyfetch - simple fetch programm writen on python, config writen on json
