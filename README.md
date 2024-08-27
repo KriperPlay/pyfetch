@@ -28,6 +28,7 @@ pyfetch - simple fetch programm writen on python, config writen on json
 ```shell
 git clone https://github.com/KriperPlay/pyfetch/
 cd pyfetch/release
+chmod +x install.sh
 ./install.sh
 ```
 # How to build
