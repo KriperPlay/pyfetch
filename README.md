@@ -3,7 +3,7 @@
 ![серега пират гид и лера](https://github.com/user-attachments/assets/8297967b-1e3e-463e-9d31-d9d0ab1b69ed)
 
 # Warning
-* pyfetch work only on Linux
+* pyfetch work only on Linux(Android/Termux not supported!)
 * pyfetch support these package managers:
 * * dpkg
   * rpm
